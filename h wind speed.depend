@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1609607941 source:c:\users\administrator\desktop\h wind speed\km\type.c
+	<stdio.h>
+	<stdlib.h>
+	"type.h"
+
+1609607536 c:\users\administrator\desktop\h wind speed\km\type.h
+
+1609608586 source:c:\users\administrator\desktop\h wind speed\km\main.c
+	<stdio.h>
+	<stdlib.h>
+	"type.h"
+
+1609608796 source:c:\users\administrator\desktop\h wind speed\km\resources.rc
+
